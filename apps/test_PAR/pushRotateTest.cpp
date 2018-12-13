@@ -9,7 +9,7 @@
 #include <ctime>
 #include <ostream>
 
-// PAS test
+// PAR test
 
 
 
