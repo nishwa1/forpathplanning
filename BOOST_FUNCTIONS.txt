@@ -1,0 +1,8 @@
+C:/Boost/lib/boost_date_time-vc141-mt-gd-x64-1_68.lib
+C:/Boost/lib/boost_date_time-vc141-mt-x64-1_68.lib
+C:/Boost/lib/boost_filesystem-vc141-mt-gd-x64-1_68.lib
+C:/Boost/lib/boost_filesystem-vc141-mt-x64-1_68.lib
+C:/Boost/lib/boost_graph-vc141-mt-gd-x64-1_68.lib
+C:/Boost/lib/boost_graph-vc141-mt-x64-1_68.lib
+C:/Boost/lib/boost_iostreams-vc141-mt-gd-x64-1_68.lib
+C:/Boost/lib/boost_iostreams-vc141-mt-x64-1_68.lib
